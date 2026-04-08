@@ -25,3 +25,4 @@ Asesor_Fragancias/
 ├── especiados.txt            # Base de datos de perfumes especiados
 ├── jovenes.txt               # Base de datos para menores de 18
 └── README.md
+git clone https://github.com/techNico-Escolano/FragrancIA.git
