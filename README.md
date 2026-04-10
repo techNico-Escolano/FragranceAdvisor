@@ -1,4 +1,4 @@
-# 🧴 FragrancIA
+# 🧴 FragranceAdvisor
 
 ¡Bienvenido al **Asesor de Fragancias**! Este es un script interactivo desarrollado íntegramente en **Bash** que funciona como un consultor personal de perfumes directamente en tu terminal.
 
@@ -25,4 +25,4 @@ Asesor_Fragancias/
 ├── especiados.txt            # Base de datos de perfumes especiados
 ├── jovenes.txt               # Base de datos para menores de 18
 └── README.md
-git clone https://github.com/techNico-Escolano/FragrancIA.git
+git clone https://github.com/techNico-Escolano/FragranceAdvisor.git
