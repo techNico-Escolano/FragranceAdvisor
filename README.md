@@ -1,4 +1,4 @@
-# 🧴 FragranceAdvisor
+# 🧴 Fragrance Advisor
 
 ¡Bienvenido al **Asesor de Fragancias**! Este es un script interactivo desarrollado íntegramente en **Bash** que funciona como un consultor personal de perfumes directamente en tu terminal.
 
